@@ -1,4 +1,4 @@
-#Social Media Design Template
+# Social Media Design Template
 ### This is a social media design template built with React and Material-UI (Mui). It provides a basic structure and layout for creating a social media application.
 ## Features
 - Responsive lay Out
