@@ -53,7 +53,7 @@ const Navbar = () => {
             display: { xs: "none", md: "block" },
           }}
         >
-          Dom Dev
+          JiaGram
         </Typography>
         <PetsIcon
           sx={{
