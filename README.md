@@ -8,7 +8,7 @@
 - React
 - Material UI (MUI)
 
-##Getting Started
+## Getting Started
 ### CLone the repository:
 `git clone <repository-url>`
 ### Install dependencies:
